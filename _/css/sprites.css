@@ -1,0 +1,59 @@
+/* SPRITES - MUY MEXICANO */
+.mx { background: url(../img/muy-mex.png) no-repeat top left; }
+
+.mx.sprite-muy-mex-bandera{ background-position: 0 0; width: 141px; height: 141px; } 
+.mx.sprite-muy-mex-calidad{ background-position: 0 -191px; width: 141px; height: 141px; } 
+.mx.sprite-muy-mex-colores{ background-position: 0 -382px; width: 141px; height: 141px; } 
+.mx.sprite-muy-mex-oficial{ background-position: 0 -573px; width: 141px; height: 141px; } 
+.mx.sprite-muy-mex-representativo{ background-position: 0 -764px; width: 141px; height: 141px; } 
+.mx.sprite-muy-mex-respaldado{ background-position: 0 -955px; width: 141px; height: 142px; } 
+
+/* SPRITES - MANOS */
+.mano { background: url(../img/manos.png) no-repeat top left; }
+.mano.sprite-mano-derecha{ background-position: 0 0; width: 216px; height: 216px; } 
+.mano.sprite-mano-izquierda{ background-position: 0 -266px; width: 216px; height: 216px; } 
+
+/* SPRITES - CAJAS */
+.caja { background: url(../img/cajas.png) no-repeat top left; }
+.caja.sprite-caja-a{ background-position: 0 0; width: 206px; height: 258px; } 
+.caja.sprite-caja-catcher-2piezas{ background-position: 0 -308px; width: 206px; height: 189px; } 
+.caja.sprite-caja-catcher-6piezas{ background-position: 0 -547px; width: 235px; height: 220px; } 
+.caja.sprite-caja-e{ background-position: 0 -817px; width: 218px; height: 264px; } 
+.caja.sprite-caja-f{ background-position: 0 -1131px; width: 208px; height: 269px; } 
+.caja.sprite-caja-g{ background-position: 0 -1450px; width: 194px; height: 267px; } 
+.caja.sprite-caja-h{ background-position: 0 -1767px; width: 214px; height: 256px; } 
+.caja.sprite-caja-i{ background-position: -285px 0; width: 202px; height: 257px; } 
+.caja.sprite-caja-ichiro{ background-position: -285px -307px; width: 211px; height: 260px; } 
+.caja.sprite-caja-l{ background-position: -285px -617px; width: 223px; height: 262px; } 
+.caja.sprite-caja-m{ background-position: -285px -929px; width: 221px; height: 258px; } 
+.caja.sprite-caja-trapiz{ background-position: -285px -1237px; width: 218px; height: 256px; } 
+.caja.sprite-caja-w{ background-position: -285px -1543px; width: 194px; height: 267px; } 
+
+/* SPRITES - COLOR1 */
+.color1 { background: url(../img/color1.png) no-repeat top left; }
+.color1.sprite-piel-color-miel{ background-position: 0 0; width: 141px; height: 141px; } 
+.color1.sprite-piel-color-morado{ background-position: 0 -191px; width: 141px; height: 141px; } 
+.color1.sprite-piel-color-naranja{ background-position: 0 -382px; width: 141px; height: 141px; } 
+.color1.sprite-piel-color-negro{ background-position: 0 -573px; width: 141px; height: 141px; } 
+.color1.sprite-piel-color-paja{ background-position: 0 -764px; width: 141px; height: 141px; } 
+.color1.sprite-piel-color-rojo{ background-position: 0 -955px; width: 141px; height: 141px; } 
+.color1.sprite-piel-color-rosa{ background-position: 0 -1146px; width: 141px; height: 141px; } 
+.color1.sprite-piel-color-tabaco{ background-position: 0 -1337px; width: 141px; height: 141px; } 
+.color1.sprite-piel-color-turquesa{ background-position: 0 -1528px; width: 141px; height: 141px; } 
+.color1.sprite-piel-color-uva{ background-position: 0 -1719px; width: 141px; height: 141px; } 
+.color1.sprite-piel-color-verdebandera{ background-position: 0 -1910px; width: 141px; height: 141px; } 
+.color1.sprite-piel-color-verdebotella{ background-position: -191px 0; width: 141px; height: 141px; } 
+
+.color2 { background: url(../img/color2.png) no-repeat top left; }
+.color2.sprite-piel-color-amarillo{ background-position: 0 0; width: 141px; height: 141px; } 
+.color2.sprite-piel-color-azulcarolina{ background-position: 0 -191px; width: 141px; height: 141px; } 
+.color2.sprite-piel-color-azulmarino{ background-position: 0 -382px; width: 141px; height: 141px; } 
+.color2.sprite-piel-color-azulrey{ background-position: 0 -573px; width: 141px; height: 141px; } 
+.color2.sprite-piel-color-blanco{ background-position: 0 -764px; width: 141px; height: 141px; } 
+.color2.sprite-piel-color-cafe{ background-position: 0 -955px; width: 141px; height: 141px; } 
+.color2.sprite-piel-color-cajeta{ background-position: 0 -1146px; width: 141px; height: 141px; } 
+.color2.sprite-piel-color-grisclaro{ background-position: 0 -1337px; width: 141px; height: 141px; } 
+.color2.sprite-piel-color-grisobscuro{ background-position: 0 -1528px; width: 141px; height: 141px; } 
+.color2.sprite-piel-color-hormiga{ background-position: 0 -1719px; width: 141px; height: 141px; } 
+.color2.sprite-piel-color-hueso{ background-position: 0 -1910px; width: 141px; height: 141px; } 
+.color2.sprite-piel-color-lila{ background-position: -191px 0; width: 141px; height: 141px; } 

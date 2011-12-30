@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'Roice Bold';
+    src: url('roice-boldsc-webfont.eot');
+    src: url('roice-boldsc-webfont.eot?#iefix') format('embedded-opentype'),
+         url('roice-boldsc-webfont.woff') format('woff'),
+         url('roice-boldsc-webfont.ttf') format('truetype'),
+         url('roice-boldsc-webfont.svg#RoiceBoldSCRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Roice Black';
+    src: url('roice-blacksc-webfont.eot');
+    src: url('roice-blacksc-webfont.eot?#iefix') format('embedded-opentype'),
+         url('roice-blacksc-webfont.woff') format('woff'),
+         url('roice-blacksc-webfont.ttf') format('truetype'),
+         url('roice-blacksc-webfont.svg#RoiceBlackSCRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Roice Light';
+    src: url('roice-lightsc-webfont.eot');
+    src: url('roice-lightsc-webfont.eot?#iefix') format('embedded-opentype'),
+         url('roice-lightsc-webfont.woff') format('woff'),
+         url('roice-lightsc-webfont.ttf') format('truetype'),
+         url('roice-lightsc-webfont.svg#RoiceLightSCRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Roice Medium';
+    src: url('roice-mediumsc-webfont.eot');
+    src: url('roice-mediumsc-webfont.eot?#iefix') format('embedded-opentype'),
+         url('roice-mediumsc-webfont.woff') format('woff'),
+         url('roice-mediumsc-webfont.ttf') format('truetype'),
+         url('roice-mediumsc-webfont.svg#RoiceMediumSCRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Roice Regular';
+    src: url('roice-regularsc-webfont.eot');
+    src: url('roice-regularsc-webfont.eot?#iefix') format('embedded-opentype'),
+         url('roice-regularsc-webfont.woff') format('woff'),
+         url('roice-regularsc-webfont.ttf') format('truetype'),
+         url('roice-regularsc-webfont.svg#RoiceRegularSCRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
